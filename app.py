@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer el archivo CSV
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Documents/vehicles_us.csv'
+file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
 df = pd.read_csv(file_path)
 
 # Encabezado
@@ -22,7 +22,7 @@ import pandas as pd
 import plotly.express as px
 
 # Lee el archivo CSV en un DataFrame
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Documents/vehicles_us.csv'
+file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
 df = pd.read_csv(file_path)
 
 # Función para construir el histograma
