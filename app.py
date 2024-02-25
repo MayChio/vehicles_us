@@ -45,17 +45,4 @@ if st.button("Mostrar Histograma"):
 if st.button("Mostrar Gráfico de Dispersión"):
     scatter_plot()
 
-import os
-
-# Ruta del archivo
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
-
-# Imprimir la ruta del archivo
-print("Ruta del archivo:", file_path)
-
-# Verificar si el archivo existe en la ruta especificada
-if os.path.exists(file_path):
-    print("El archivo existe en la ruta especificada.")
-else:
-    print("El archivo NO existe en la ruta especificada.")
 

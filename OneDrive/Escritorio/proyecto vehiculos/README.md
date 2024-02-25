@@ -1,7 +1,8 @@
 # vehicles_us
 <<<<<<< HEAD
 =======
-# vehicles_us
+# vehicles_us**```python
+
 >>>>>>> fd00baa78b2ab1bf1ae7f5f3e9a063badb47b277
 # Proyecto de Análisis de Vehículos
 
@@ -23,3 +24,5 @@ Para ejecutar la aplicación, sigue estos pasos:
 4. Abre tu navegador web y ve a la dirección proporcionada por Streamlit.
 
 ¡Disfruta explorando los datos de los anuncios de venta de vehículos!
+
+```**
