@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer el archivo CSV
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
+file_path = 'vehicles_us.csv'
 df = pd.read_csv(file_path)
 
 # Encabezado
@@ -22,7 +22,7 @@ import pandas as pd
 import plotly.express as px
 
 # Lee el archivo CSV en un DataFrame
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
+file_path = 'vehicles_us.csv'
 df = pd.read_csv(file_path)
 
 # Función para construir el histograma
@@ -48,7 +48,7 @@ if st.button("Mostrar Gráfico de Dispersión"):
 import os
 
 # Ruta del archivo
-file_path = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
+file_path = 'vehicles_us.csv'
 
 # Imprimir la ruta del archivo
 print("Ruta del archivo:", file_path)
@@ -62,7 +62,7 @@ else:
 import pandas as pd
 
 # Ruta relativa al archivo CSV desde app.py
-csv_file = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
+csv_file = 'vehicles_us.csv'
 
 # Leer el archivo CSV
 df = pd.read_csv(csv_file)
