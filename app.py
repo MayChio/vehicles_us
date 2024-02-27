@@ -59,3 +59,13 @@ if os.path.exists(file_path):
 else:
     print("El archivo NO existe en la ruta especificada.")
 
+import pandas as pd
+
+# Ruta relativa al archivo CSV desde app.py
+csv_file = 'vehicles_us.csv'
+
+# Leer el archivo CSV
+df = pd.read_csv(csv_file)
+
+# Mostrar las primeras filas del DataFrame
+print(df.head())
