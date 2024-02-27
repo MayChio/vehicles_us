@@ -62,7 +62,7 @@ else:
 import pandas as pd
 
 # Ruta relativa al archivo CSV desde app.py
-csv_file = 'OneDrive/Documents/vehicles_us.csv'
+csv_file = 'C:/Users/MAYRA ROCIO/OneDrive/Escritorio/proyecto vehiculos/vehicles_us/vehicles_us.csv'
 
 # Leer el archivo CSV
 df = pd.read_csv(csv_file)
