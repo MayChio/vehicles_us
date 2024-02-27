@@ -3,6 +3,8 @@
 =======
 # vehicles_us
 >>>>>>> fd00baa78b2ab1bf1ae7f5f3e9a063badb47b277
+>>>>>>>
+>>>>>>> URL de render.com:  https://vehicles-us-vrdk.onrender.com
 # Proyecto de Análisis de Vehículos
 
 Este proyecto consiste en una aplicación web desarrollada con Streamlit que proporciona un análisis exploratorio de un conjunto de datos de anuncios de venta de vehículos. La aplicación permite a los usuarios visualizar gráficos interactivos, como histogramas y gráficos de dispersión, para explorar diferentes aspectos de los datos, como el precio, el año del modelo, la condición, el tipo de combustible, entre otros.
